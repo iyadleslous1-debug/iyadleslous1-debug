@@ -1,11 +1,11 @@
-![Iyad — Big dreams. Starting early.](./banner.svg)
+![Iyad — Cybersecurity & creative coding](./banner.svg)
 
-## Hi, I’m Iyad.
+**I’m Iyad, a 16-year-old student from Algeria.** I want to study cybersecurity. I’m curious about what happens behind a web request and how the systems handling it decide what to trust.
 
-I’m a 16-year-old student from Algeria. I want to study cybersecurity because I’m curious about what happens when software is used in ways its developers didn’t expect.
+### Beyond the classroom
 
-### What I’m working on
+**Creative coding.** I use AI to get prototypes on screen quickly. Right now I’m exploring how to explain things with motion, like showing the path light takes through a telescope using visuals drawn and animated in code.
 
-- **Cybersecurity** · I’m learning how software and networks work, with a particular interest in web security.
-- **AI & creative coding** · I use AI to build prototypes and experiment with motion graphics, including documentary scenes drawn and animated in code.
-- **GRAVE** · I co-founded an Algerian menswear brand. I work on how we present our products and turn interest from our videos into orders.
+**GRAVE.** I co-founded a menswear brand in Algeria. We started with a long-sleeve Henley. I work on how we present the product, make short videos, and handle customer orders.
+
+> I’ve got big dreams. I want to see how much I can build before I finish high school.
